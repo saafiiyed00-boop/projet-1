@@ -1,0 +1,31 @@
+p{ 
+
+font-family: "Roboto",sans-serif;
+
+}
+.fruitSec img , .fruitSec nav{
+    display: inline-block;
+    vertical-align: middle;
+ }
+ nav{ 
+    margin-left: 60%;
+ }
+ footer{ 
+    background-color: rgba(0, 0, 0, 0.945);
+    color: white;
+ }
+ header{
+    background-color: rgba(0, 0, 0, 0.945);
+    color: white; 
+    padding: 8px;
+    border-style: solid;
+    border-radius: 8px;
+    border-color: black;
+  }
+ 
+  body {
+    background-image: url(Music\ Video\ Dance\ GIF.gif);
+    background-size: cover;     
+    background-position: center;
+    background-repeat: no-repeat;
+}

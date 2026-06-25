@@ -1,0 +1,26 @@
+
+img{
+    /* margin-left: 250px;
+    margin-right: 250px;
+    margin-top: 300px; */
+    /* margin: 50%;
+    height: 200px;
+    width: 200px; */
+    }
+   div{
+
+    /* border: 2px solid red; */
+    border-style: solid;
+    border-color: blue;
+    border-width: 8px;
+    border-radius: 10px;
+        /* background-color: red; */
+        /* padding-left: 50px;
+        padding-right: 100px;
+        padding-bottom: 250px; */
+/* padding: 50%;
+        width: 500px;
+        height: 500px; */
+
+        /* padding: 50px  50px 50px 50px; top right bottom left */
+    }

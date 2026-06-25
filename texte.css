@@ -1,0 +1,16 @@
+.p1,.p2,.p3,.p4{ 
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+font-style: italic;
+
+}
+.p1,.p2{ 
+    text-decoration: line-through;
+    text-align: left;
+    letter-spacing: 6PX;
+}
+.p3,.p4{ 
+    text-align: right;
+    word-spacing: 10px;
+    color: #80586D;
+}
+
